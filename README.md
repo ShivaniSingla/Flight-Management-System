@@ -42,14 +42,14 @@ This project is intentionally simple and educational. It is **not production-rea
 
 ## Project Structure
 
-
+<pre>
 Flight-Management-System/
 ├── src/
 │   └── flight.c
 ├── data/
 │   └── flight_data.csv
 ├── README.md
-
+</pre>
 
 ---
 
