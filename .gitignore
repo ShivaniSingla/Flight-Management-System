@@ -1,0 +1,12 @@
+# Executables
+*.exe
+*.out
+
+# Data files (generated)
+Data/flight_data.csv
+
+# VS Code
+.vscode/
+
+# OS junk
+Thumbs.db
